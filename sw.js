@@ -1,5 +1,5 @@
 
-const CACHE_NAME = 'pwa-ultra-cache-v3';
+const CACHE_NAME = 'pwa-ultra-cache-v4';
 const ASSETS = ['./', './index.html', './manifest.json', './register-sw.js', './icons/icon-192x192.png', './icons/icon-512x512.png'];
 
 self.addEventListener('install', e => {
